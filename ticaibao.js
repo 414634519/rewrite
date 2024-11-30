@@ -1,4 +1,4 @@
-// Quantumult X Script to modify iEndTime to 2026-12-31 00:00:00
+// Quantumult X Script to modify iEndTime to 2026-12-31 00:00:00 hostname = gateway.upchina.com
 const url = $request.url;
 const pathModule = "/json/crm_module/readModule";
 
